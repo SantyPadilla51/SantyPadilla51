@@ -13,8 +13,8 @@ I enjoy working in teams and believe in the importance of clear and effective co
 
 <p align = "center">
  
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://porfolio-murex-eight.vercel.app/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santiago-padilla-800173235/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
 
 </p>
@@ -37,14 +37,27 @@ I enjoy working in teams and believe in the importance of clear and effective co
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![React](https://img.shields.io/badge/react%20-1c14bf.svg?style=for-the-badge&logo=react&logoColor=white)
+   ![Tailwindcss](https://img.shields.io/badge/Tailwind%20-3589a3.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap%20-6937d0.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br>
+
+- **Back-End Development**:
+
+   ![Express](https://img.shields.io/badge/Express%20-060606.svg?style=for-the-badge&logo=express&logoColor=white)
+   ![NodeJs](https://img.shields.io/badge/Node%20-187524.svg?style=for-the-badge&logo=node&logoColor=white)
+   ![Postgres](https://img.shields.io/badge/Postgres%20-%231572B6.svg?style=for-the-badge&logo=postgres&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/Mongo%20-2d9a3b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
 - **Cloud Hosting**:
 
-    ![Vercel](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Railway](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/Vercel%20-060606.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Railway](https://img.shields.io/badge/Railway%20-652f8e.svg?style=for-the-badge&logo=railway&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase%20-dc7a36.svg?style=for-the-badge&logo=firebase&logoColor=white)
     
 <br>
 
@@ -53,12 +66,8 @@ I enjoy working in teams and believe in the importance of clear and effective co
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-%23F05033.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
-
-- **Extras**:
-
-    
-
 
 </p>
