@@ -59,6 +59,7 @@ I enjoy working in teams and believe in the importance of clear and effective co
    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
    ![MongoDB](https://img.shields.io/badge/Mongo%20-2d9a3b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase%20-060606.svg?style=for-the-badge&logo=supabase&logoColor=green)
 
 <br>
 
